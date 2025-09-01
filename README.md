@@ -31,11 +31,11 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 * 🏆 Top Performers on the GAIA Benchmark
 </br>AutoAgent has delivering comparable performance to many **Deep Research Agents**.
 
-* 📚 Agentic-RAG with Native Self-Managing Vector Database
-</br>AutoAgent equipped with a native self-managing vector database, outperforms industry-leading solutions like **LangChain**. 
-
 * ✨ Agent and Workflow Create with Ease
 </br>AutoAgent leverages natural language to effortlessly build ready-to-use **tools**, **agents** and **workflows** - no coding required.
+
+* 📚 Agentic-RAG with Native Self-Managing Vector Database
+</br>AutoAgent equipped with a native self-managing vector database, outperforms industry-leading solutions like **LangChain**. 
 
 * 🌐 Universal LLM Support
 </br>AutoAgent seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
