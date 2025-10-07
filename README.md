@@ -31,6 +31,9 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 * 💬 **Natural Language-Driven Agent Building** 
 </br>Automatically constructs and orchestrates collaborative agent systems purely through natural dialogue, eliminating the need for manual coding or technical configuration.
 
+* 🚀 **Zero-Code Framework**
+</br>Democratizes AI development by allowing anyone, regardless of coding experience, to create and customize their own agents, tools, and workflows using natural language alone.
+
 * ⚡ **Self-Managing Workflow Generation**
 </br>Dynamically creates, optimizes and adapts agent workflows based on high-level task descriptions, even when users cannot fully specify implementation details.
 
@@ -39,9 +42,6 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 
 * 🎯 **Self-Play Agent Customization** 
 </br>AutoAgent seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
-
-* 🚀 **Zero-Code Framework**
-</br>Democratizes AI development by allowing anyone, regardless of coding experience, to create and customize their own agents, tools, and workflows using natural language alone.
 
 🚀 Unlock the Future of LLM Agents. Try 🔥AutoAgent🔥 Now!
 
