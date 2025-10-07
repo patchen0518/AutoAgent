@@ -70,7 +70,7 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 * <a href='#features'>✨ Features</a>
 * <a href='#news'>🔥 News</a>
 * <a href='#how-to-use'>🔍 How to Use AutoAgent</a>
-  * <a href='#user-mode'>1. `user mode` (SOTA 🏆 Open Deep Research)</a>
+  * <a href='#user-mode'>1. `user mode` (Deep Research Agents)</a>
   * <a href='#agent-editor'>2. `agent editor` (Agent Creation without Workflow)</a>
   * <a href='#workflow-editor'>3. `workflow editor` (Agent Creation with Workflow)</a>
 * <a href='#quick-start'>⚡ Quick Start</a>
@@ -90,9 +90,9 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 
 <span id='user-mode'/>
 
-### 1. `user mode` (SOTA 🏆 Open Deep Research)
+### 1. `user mode` (Deep Research Agents)
 
-AutoAgent have an out-of-the-box multi-agent system, which you could choose `user mode` in the start page to use it. This multi-agent system is a general AI assistant, having the same functionality with **OpenAI's Deep Research** and the comparable performance with it in [GAIA](https://gaia-benchmark-leaderboard.hf.space/) benchmark. 
+AutoAgent features a ready-to-use multi-agent system accessible through user mode on the start page. This system serves as a comprehensive AI research assistant designed for information retrieval, complex analytical tasks, and comprehensive report generation.
 
 - 🚀 **High Performance**: Matches Deep Research using Claude 3.5 rather than OpenAI's o3 model.
 - 🔄 **Model Flexibility**: Compatible with any LLM (including Deepseek-R1, Grok, Gemini, etc.)
