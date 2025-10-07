@@ -26,25 +26,22 @@
 
 Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Developing** framework that enables users to create and deploy LLM agents through **Natural Language Alone**. 
 
-## ✨Key Features
+## ✨Key Features of AutoAgent
 
-* 🏆 Top Performers on the GAIA Benchmark
+* 💬 **Natural Language-Driven Agent Building** 
 </br>AutoAgent has delivering comparable performance to many **Deep Research Agents**.
 
-* ✨ Agent and Workflow Create with Ease
-</br>AutoAgent leverages natural language to effortlessly build ready-to-use **tools**, **agents** and **workflows** - no coding required.
+* ⚡ **Self-Managing Workflow Generation**
+</br>Dynamically creates, optimizes and adapts agent workflows based on high-level task descriptions, even when users cannot fully specify implementation details.
 
-* 📚 Agentic-RAG with Native Self-Managing Vector Database
-</br>AutoAgent equipped with a native self-managing vector database, outperforms industry-leading solutions like **LangChain**. 
+* 🔧 **Intelligent Resource Orchestration**
+</br>Enables controlled code generation for creating tools, agents, and workflows through iterative self-improvement, supporting both single agent creation and multi-agent workflow generation.
 
-* 🌐 Universal LLM Support
+* 🎯 **Self-Play Agent Customization** 
 </br>AutoAgent seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
 
-* 🔀 Flexible Interaction 
-</br>Benefit from support for both **function-calling** and **ReAct** interaction modes.
-
-* 🤖 Dynamic, Extensible, Lightweight 
-</br>AutoAgent is your **Personal AI Assistant**, designed to be dynamic, extensible, customized, and lightweight.
+* 🚀 **Zero-Code Framework**
+</br>Democratizes AI development by allowing anyone, regardless of coding experience, to create and customize their own agents, tools, and workflows using natural language alone.
 
 🚀 Unlock the Future of LLM Agents. Try 🔥AutoAgent🔥 Now!
 
