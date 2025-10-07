@@ -29,7 +29,7 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 ## ✨Key Features of AutoAgent
 
 * 💬 **Natural Language-Driven Agent Building** 
-</br>AutoAgent has delivering comparable performance to many **Deep Research Agents**.
+</br>Automatically constructs and orchestrates collaborative agent systems purely through natural dialogue, eliminating the need for manual coding or technical configuration.
 
 * ⚡ **Self-Managing Workflow Generation**
 </br>Dynamically creates, optimizes and adapts agent workflows based on high-level task descriptions, even when users cannot fully specify implementation details.
