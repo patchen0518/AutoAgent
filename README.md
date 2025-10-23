@@ -12,7 +12,10 @@
   <a href="https://autoagent-ai.github.io"><img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&color=FFE165&logo=homepage&logoColor=white" alt="Credits"></a>
   <a href="https://join.slack.com/t/metachain-workspace/shared_invite/zt-2zibtmutw-v7xOJObBf9jE2w3x7nctFQ"><img src="https://img.shields.io/badge/Slack-Join%20Us-red?logo=slack&logoColor=white&style=for-the-badge" alt="Join our Slack community"></a>
   <a href="https://discord.gg/jQJdXyDB"><img src="https://img.shields.io/badge/Discord-Join%20Us-purple?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord community"></a>
-  <a href="https://github.com/HKUDS/AutoAgent/blob/main/assets/autoagent-wechat.jpg"><img src="https://img.shields.io/badge/Wechat-Join%20Us-green?logo=wechat&logoColor=white&style=for-the-badge" alt="Join our Wechat community"></a>
+  <!-- <a href="https://github.com/HKUDS/AutoAgent/blob/main/assets/autoagent-wechat.jpg"><img src="https://img.shields.io/badge/Wechat-Join%20Us-green?logo=wechat&logoColor=white&style=for-the-badge" alt="Join our Wechat community"></a> -->
+  <a href="./Communication.md"><img src="https://img.shields.io/badge/💬Feishu-Group-07c160?style=for-the-badge&logoColor=white&labelColor=1a1a2e"></a>
+  <a href="./Communication.md"><img src="https://img.shields.io/badge/WeChat-Group-07c160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1a1a2e"></a>
+  
   <br/>
   <a href="https://autoagent-ai.github.io/docs"><img src="https://img.shields.io/badge/Documentation-000?logo=googledocs&logoColor=FFE165&style=for-the-badge" alt="Check out the documentation"></a>
   <a href="https://arxiv.org/abs/2502.05957"><img src="https://img.shields.io/badge/Paper%20on%20Arxiv-000?logoColor=FFE165&logo=arxiv&style=for-the-badge" alt="Paper"></a>
@@ -26,25 +29,22 @@
 
 Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Developing** framework that enables users to create and deploy LLM agents through **Natural Language Alone**. 
 
-## ✨Key Features
+## ✨Key Features of AutoAgent
 
-* 🏆 Top Performers on the GAIA Benchmark
-</br>AutoAgent has secured top rankings among open-sourced methods, delivering comparable performance to **OpenAI's Deep Research**.
+* 💬 **Natural Language-Driven Agent Building** 
+</br>Automatically constructs and orchestrates collaborative agent systems purely through natural dialogue, eliminating the need for manual coding or technical configuration.
 
-* 📚 Agentic-RAG with Native Self-Managing Vector Database
-</br>AutoAgent equipped with a native self-managing vector database, outperforms industry-leading solutions like **LangChain**. 
+* 🚀 **Zero-Code Framework**
+</br>Democratizes AI development by allowing anyone, regardless of coding experience, to create and customize their own agents, tools, and workflows using natural language alone.
 
-* ✨ Agent and Workflow Create with Ease
-</br>AutoAgent leverages natural language to effortlessly build ready-to-use **tools**, **agents** and **workflows** - no coding required.
+* ⚡ **Self-Managing Workflow Generation**
+</br>Dynamically creates, optimizes and adapts agent workflows based on high-level task descriptions, even when users cannot fully specify implementation details.
 
-* 🌐 Universal LLM Support
-</br>AutoAgent seamlessly integrates with **A Wide Range** of LLMs (e.g., OpenAI, Anthropic, Deepseek, vLLM, Grok, Huggingface ...)
+* 🔧 **Intelligent Resource Orchestration**
+</br>Enables controlled code generation for creating tools, agents, and workflows through iterative self-improvement, supporting both single agent creation and multi-agent workflow generation.
 
-* 🔀 Flexible Interaction 
-</br>Benefit from support for both **function-calling** and **ReAct** interaction modes.
-
-* 🤖 Dynamic, Extensible, Lightweight 
-</br>AutoAgent is your **Personal AI Assistant**, designed to be dynamic, extensible, customized, and lightweight.
+* 🎯 **Self-Play Agent Customization** 
+</br>Enables controlled code generation for creating tools, agents, and workflows through iterative self-improvement, supporting both single agent creation and multi-agent workflow generation.
 
 🚀 Unlock the Future of LLM Agents. Try 🔥AutoAgent🔥 Now!
 
@@ -73,7 +73,7 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 * <a href='#features'>✨ Features</a>
 * <a href='#news'>🔥 News</a>
 * <a href='#how-to-use'>🔍 How to Use AutoAgent</a>
-  * <a href='#user-mode'>1. `user mode` (SOTA 🏆 Open Deep Research)</a>
+  * <a href='#user-mode'>1. `user mode` (Deep Research Agents)</a>
   * <a href='#agent-editor'>2. `agent editor` (Agent Creation without Workflow)</a>
   * <a href='#workflow-editor'>3. `workflow editor` (Agent Creation with Workflow)</a>
 * <a href='#quick-start'>⚡ Quick Start</a>
@@ -93,9 +93,9 @@ Welcome to AutoAgent! AutoAgent is a **Fully-Automated** and highly **Self-Devel
 
 <span id='user-mode'/>
 
-### 1. `user mode` (SOTA 🏆 Open Deep Research)
+### 1. `user mode` (Deep Research Agents)
 
-AutoAgent have an out-of-the-box multi-agent system, which you could choose `user mode` in the start page to use it. This multi-agent system is a general AI assistant, having the same functionality with **OpenAI's Deep Research** and the comparable performance with it in [GAIA](https://gaia-benchmark-leaderboard.hf.space/) benchmark. 
+AutoAgent features a ready-to-use multi-agent system accessible through user mode on the start page. This system serves as a comprehensive AI research assistant designed for information retrieval, complex analytical tasks, and comprehensive report generation.
 
 - 🚀 **High Performance**: Matches Deep Research using Claude 3.5 rather than OpenAI's o3 model.
 - 🔄 **Model Flexibility**: Compatible with any LLM (including Deepseek-R1, Grok, Gemini, etc.)
